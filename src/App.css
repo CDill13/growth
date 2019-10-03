@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 720px;
+  width: 1280px;
+}
+
+.taco {
+  background-image: url(assets/ambitous-growth-agenda_hero_1536x1536-758576565_b.jpg);
+  height: 100%;
+  width: auto;
 }
 
 .App-logo {
